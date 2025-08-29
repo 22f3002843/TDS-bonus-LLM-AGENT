@@ -68,21 +68,6 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 
   * [AI Pipe](https://aipipe.org/) proxy API (recommended)
   * Optional: OpenAI, Gemini, or other providers.
-
-### Setup
-
-1. Clone this repo:
-
-   ```bash
-   git clone https://github.com/23f1000805/tds-bonus-project-LLM-Agent.git
-   cd tds-bonus-project-LLM-Agent
-   ```
-
-2. Open `index.html` in your browser.
-   *(No backend server required — everything runs client-side!)*
-
-3. Configure your API key in the **Settings Panel** inside the app.
-
 ---
 
 ## 🎨 UI & Code Requirements
